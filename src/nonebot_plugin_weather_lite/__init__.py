@@ -15,7 +15,7 @@ __plugin_meta__ = PluginMetadata(
     name="简易天气",
     description="利用 wttr.in 查询天气",
     usage="天气 [城市] [查询项=参数]",
-    homepage="https://github.com/noneplugin-renew/nonebot_plugin_weather_lite",
+    homepage="https://github.com/zjkwdy/nonebot_plugin_weather_lite",
     type="application",
     config=Config,
     supported_adapters=inherit_supported_adapters("nonebot_plugin_alconna"),
